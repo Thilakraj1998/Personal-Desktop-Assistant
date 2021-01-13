@@ -4,6 +4,7 @@ This project included some of the automation features of python library
 # Requirment
 The project is developed in Python Language and uses MongoDB as the Database for storing certain details.
 
+
 # Some of the Features are:
 
 1. WhatsApp Messaging
@@ -14,9 +15,9 @@ The project is developed in Python Language and uses MongoDB as the Database for
 6. wikipedia content search
 7. MongoDb database to store contact detail such as Email and phone number
 8. Read text file or Microsoft docx files.
-9.telling jokes
-10.getting current time
-11.greeting according to system time.
+9. telling jokes
+10. getting current system time
+11. greeting according to system time.
 
 # KeyWords to invoke:
 
