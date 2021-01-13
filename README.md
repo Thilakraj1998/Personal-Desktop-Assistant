@@ -1,10 +1,27 @@
 # Personal-Desktop-Assistant
+
 This project included some of the automation features of python library
 
-# Requirment
+# Requirment:
+
 The project is developed in Python Language and uses MongoDB as the Database for storing certain details.
 
+### packages:
+1. pywhatkit
+2. pymongo
+3. pyttsx3
+4. pandas
+5. wikipedia
+6. subprocess
+7. datetime
+8. pyjokes
+9. smtplib
+10.webbrowser
+11.docx
+12.os
+
 # Note:
+
 1. to use mail service sender mail id must be set to low service secuitry
 2. to use whatsapp automation user would require login into web.whatsapp.com once the activity is open on browser
 
